@@ -20,11 +20,3 @@ This project provides a Python script that loads an image and converts it into t
 
 - **color_space.py**: Main script to load the image, convert it to various color spaces, and display them.
 - **README.md**: Documentation for understanding and using the project.
-
-## 🚀 Getting Started
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/image-color-space-conversion.git
