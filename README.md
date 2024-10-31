@@ -12,7 +12,7 @@ This project provides a Python script that loads an image and converts it into t
 
 ## 🛠️ Tools & Libraries
 
-- **Python** 🐍
+- **Python** 
 - **OpenCV**: For image processing and color conversions.
 - **Matplotlib**: For visualizing the images.
 
